@@ -17,18 +17,19 @@ My research focusses on foundation model training and optmizitaion. I am also th
   <p>If you are interested, feel free to reach out via email.</p>
 </div>
 
-## Papers 
-- **A Convexity-Dependent Two-Phase Training Algorithm for Deep Neural Networks**
-  - Tomas Hrycej, Bernhard Bermeitinger, Massimo Pavone, Götz-Henrik Wiegand, Siegfried Handschuh
-  - ORCID: [0009-0009-0392-056X](https://orcid.org/0009-0009-0392-056X) | arXiv: [2510.25366](https://arxiv.org/abs/2510.25366) | DOI: [10.5220/0013696100004000](https://doi.org/10.5220/0013696100004000)
-  - *KDIR IC3K 2025 (Best Paper Award)*
-  - **TLDR:** Proposes a two-phase optimization algorithm that detects when the loss landscape transitions from non-convex to convex regions, switching from Adam to Conjugate Gradient to substantially improve convergence speed and accuracy.
+## Papers
 
-- **Leveraging Generative AI for Enhancing Domain-Driven Software Design**
-  - Götz-Henrik Wiegand, Filip Stepniak, Patrick Baier
-  - ORCID: [0009-0009-0392-056X](https://orcid.org/0009-0009-0392-056X) | arXiv: [2601.20909](https://arxiv.org/abs/2601.20909) | DOI: [10.60643/URAI.V2024P41](https://doi.org/10.60643/URAI.V2024P41)
-  - *URAI 2024*
-  - **TLDR:** Demonstrates that a 4-bit quantized Code Llama fine-tuned with LoRA on a consumer GPU can generate syntactically correct domain-specific JSON objects for Domain-Driven Design, partially automating metamodel creation.
+**A Convexity-Dependent Two-Phase Training Algorithm for Deep Neural Networks**
+- Tomas Hrycej, Bernhard Bermeitinger, Massimo Pavone, Götz-Henrik Wiegand, Siegfried Handschuh
+- ORCID: [0009-0009-0392-056X](https://orcid.org/0009-0009-0392-056X) | arXiv: [2510.25366](https://arxiv.org/abs/2510.25366) | DOI: [10.5220/0013696100004000](https://doi.org/10.5220/0013696100004000)
+- **KDIR IC3K 2025 (Best Paper Award)**
+- **TLDR:** Proposes a two-phase optimization algorithm that detects when the loss landscape transitions from non-convex to convex regions, switching from Adam to Conjugate Gradient to substantially improve convergence speed and accuracy.
+
+**Leveraging Generative AI for Enhancing Domain-Driven Software Design**
+- Götz-Henrik Wiegand, Filip Stepniak, Patrick Baier
+- ORCID: [0009-0009-0392-056X](https://orcid.org/0009-0009-0392-056X) | arXiv: [2601.20909](https://arxiv.org/abs/2601.20909) | DOI: [10.60643/URAI.V2024P41](https://doi.org/10.60643/URAI.V2024P41)
+- *URAI 2024*
+- **TLDR:** Demonstrates that a 4-bit quantized Code Llama fine-tuned with LoRA on a consumer GPU can generate syntactically correct domain-specific JSON objects for Domain-Driven Design, partially automating metamodel creation.
 
 ## Conferences
 - Applied Machine Learning Days 2026 (AMLD2026)
