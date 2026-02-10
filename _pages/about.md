@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: Götz-Henrik Wiegands"
+title: "Götz-Henrik Wiegand (M.Sc.)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ My research focusses on foundation model training and optmizitaion. I am also th
 
 
 ## Last Papers 
-
+- 
 
 ## Conferences I attende
 - Applied Machine Learning Days 2026 (AMLD2026)
