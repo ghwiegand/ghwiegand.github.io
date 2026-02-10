@@ -13,7 +13,7 @@ My research focusses on foundation model training and optmizitaion. I am also th
 
 <div style="background-color: #f0f8ff; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h3 style="margin-top: 0; color: #0066cc;">Open for Thesis Supervision</h3>
-  <p>I am happy to supervise <strong>master and bachelor theses</strong> as well as other student projects at the University of St.Gallen (HSG). Topics around <strong>Transformer architectures</strong>, <strong>foundation model training</strong>, and <strong>Optimization</strong> are especially welcome.</p>
+  <p>I am happy to supervise <strong>master and bachelor theses</strong> as well as other student projects at the University of St.Gallen (HSG). Topics around <strong>Transformer architectures</strong>, <strong>foundation model training</strong>, and <strong>optimization</strong> are especially welcome.</p>
   <p>If you are interested, feel free to reach out via email.</p>
 </div>
 
