@@ -46,7 +46,6 @@ My research focusses on foundation model training and optmizitaion. I am also th
   - Integrated Master Project (Spring Semester 2025)
 
 
-
 ## Teaching
 - Statistics for Data Scientists 
   - Teaching Assistant (Autum Semester 2025)
