@@ -56,4 +56,6 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};
+    --callout-bg                         : #1a2a3a;
+    --callout-accent                     : #4da6ff;
 }

@@ -55,6 +55,8 @@ html[data-theme="dark"] {
   --global-toc-bg-color               : #{$background-light};
   --global-selection-bg-color         : #{$selection-bg};
   --global-selection-text-color       : #{$selection-text};
+  --callout-bg                         : #1a2a3a;
+  --callout-accent                     : #4da6ff;
 }
 
 /* Text selection styling for dark theme */

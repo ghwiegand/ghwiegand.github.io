@@ -59,6 +59,8 @@ $sidebar-screen-min-width   : 1024px;
   --global-toc-bg-color               : #{$background-light};
   --global-selection-bg-color         : #{$selection-bg};
   --global-selection-text-color       : #{$selection-text};
+  --callout-bg                         : #f0f8ff;
+  --callout-accent                     : #0066cc;
 }
 
 /* Text selection styling for light theme */
