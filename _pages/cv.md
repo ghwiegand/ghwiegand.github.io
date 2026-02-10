@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Computer Science, Universität Konstanz, 2025 - 2029 (expected)
+* M.Sc., Computer Science, Hochschule Karlsruhe (HKA), 2022 - 2024
+* B.A.Sc., Computer Science, Hochschule Karlsruhe (HKA), 2018 - 2022
+* Electrical Engineering and Information Technology, Karlsruher Institut für Technologie (KIT), 2017 - 2018
+* Abitur, Landesgymnasium für Musik Wernigerode, 2008 - 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 - Present: Research Assistant
+  * Universität St.Gallen (HSG), Sankt Gallen, Switzerland
+  * Full-Time Research Assistant and PhD candidate
+  * Research: Part of the DS-NLP Lab, researching Transformer Architecture and Pre-training/Foundation Models
+  * Teaching Assistant: Statistics for Data Scientists (BA CS), NLP with LLMs (MA CS)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - July 2024: Working Student - Data and AI
+  * esentri, Ettlingen, Germany
+  * Review and documentation of the Master's thesis as well as development of a product POC
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* December 2023 - June 2024: Master Thesis - Fine-Tuning LLMs for Code Generation
+  * esentri, Ettlingen, Germany
+  * Master Thesis: "Fine-tuning of large-language models on a single GPU for a specific code syntax"
+  * Development of a code assistant for Esentri's proprietary Domain-Driven Design Framework
+
+* November 2023 - December 2023: Data Science and Machine Learning
+  * esentri, Ettlingen, Germany
+  * Working student as preparation for master thesis
+
+* September 2021 - February 2022: Bachelor Thesis - IT Security
+  * 1&1 Internet Development, Karlsruhe, Germany
+
+* March 2020 - March 2021: Consulting Services
+  * CAS Software AG, Karlsruhe, Germany
+
+* June 2017 - July 2017: IT-Internship
+  * Dell Technologies, Halle (Saale), Germany
+
 
 Publications
 ======
@@ -58,7 +65,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

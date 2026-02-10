@@ -1,152 +1,194 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Götz-Henrik Wiegand",
+    "email": "goetz.henrik.wiegand@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ghwiegand.github.io",
+    "summary": "PhD Student and Research Assistant in DS and NLP @ University St. Gallen (HSG) and Uni-Konstanz",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "St. Gallen",
+      "countryCode": "CH",
+      "region": "St. Gallen"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "götz-henrik",
+        "url": "https://www.linkedin.com/in/götz-henrik"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ghwiegand",
+        "url": "https://github.com/ghwiegand"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Universität St.Gallen (HSG)",
+      "position": "Research Assistant",
+      "website": "https://blog.nlp-lab.ai",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Full-Time Research Assistant and PhD candidate. Research: Part of the DS-NLP Lab, researching Transformer Architecture and Pre-training/Foundation Models. Teaching Assistant: Statistics for Data Scientists (BA CS), NLP with LLMs (MA CS).",
+      "highlights": []
+    },
+    {
+      "company": "esentri",
+      "position": "Working Student - Data and AI",
+      "website": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "summary": "Review and documentation of the Master's thesis as well as development of a product POC.",
+      "highlights": []
+    },
+    {
+      "company": "esentri",
+      "position": "Master Thesis - Fine-Tuning LLMs for Code Generation",
+      "website": "https://github.com/Tr33Bug/DomainlifecyclesCodeGenerator",
+      "startDate": "2023-12-01",
+      "endDate": "2024-06-01",
+      "summary": "Master Thesis: \"Fine-tuning of large-language models on a single GPU for a specific code syntax.\" Development of a code assistant for Esentri's proprietary Domain-Driven Design Framework.",
+      "highlights": []
+    },
+    {
+      "company": "esentri",
+      "position": "Data Science and Machine Learning",
+      "website": "",
+      "startDate": "2023-11-01",
+      "endDate": "2023-12-01",
+      "summary": "Working student as preparation for master thesis.",
+      "highlights": []
+    },
+    {
+      "company": "1&1 Internet Development",
+      "position": "Bachelor Thesis - IT Security",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "CAS Software AG",
+      "position": "Consulting Services",
+      "website": "",
+      "startDate": "2020-03-01",
+      "endDate": "2021-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Dell Technologies",
+      "position": "IT-Internship",
+      "website": "",
+      "startDate": "2017-06-01",
+      "endDate": "2017-07-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Universität Konstanz",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2025-01-01",
+      "endDate": "2029-01-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Hochschule Karlsruhe (HKA) / University of Applied Sciences",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2022-03-01",
+      "endDate": "2024-09-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Hochschule Karlsruhe (HKA) / University of Applied Sciences",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Applied Science",
+      "startDate": "2018-10-01",
+      "endDate": "2022-02-01",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Karlsruher Institut für Technologie (KIT)",
+      "area": "Electrical Engineering and Information Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2017-10-01",
+      "endDate": "2018-09-01",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Landesgymnasium für Musik Wernigerode",
+      "area": "",
+      "studyType": "Abitur",
+      "startDate": "2008-08-01",
+      "endDate": "2016-08-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Model Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applied Machine Learning",
+      "level": "",
+      "keywords": []
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A Convexity-dependent Two-Phase Training Algorithm for Deep Neural Networks",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Leveraging Generative AI for Enhancing Domain-Driven Software Design",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Statistics for Data Scientists",
+      "institution": "Universität St.Gallen (HSG), 3. Semester BA Computer Science",
+      "date": "2025-01-01",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "NLP with LLMs",
+      "institution": "Universität St.Gallen (HSG), 2. Semester MA Computer Science",
+      "date": "2025-01-01",
+      "role": "Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
