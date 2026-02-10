@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 Education
 ======
@@ -39,7 +39,7 @@ Work experience
   * Working student as preparation for master thesis
 
 * September 2021 - February 2022: Bachelor Thesis - IT Security
-  * 1&1 Internet Development, Karlsruhe, Germany
+  * 1&1 Mail and Media, Karlsruhe, Germany
 
 * March 2020 - March 2021: Consulting Services
   * CAS Software AG, Karlsruhe, Germany
