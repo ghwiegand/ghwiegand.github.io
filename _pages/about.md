@@ -21,7 +21,7 @@ My research focusses on foundation model training and optmizitaion. I am also th
 
 | Year | Title | Authors | Venue | Links |
 |------|-------|---------|-------|-------|
-| 2026 | **Is More Data Worth the Cost? Dataset Scaling Laws in a Tiny Attention-Only Decoder** | **Götz-Henrik Wiegand**, Lorena Raichle, Rico Staedeli, Siegfried Handschuh, Tomas Hrycej, Bernhard Bermeitinger | IEEE SDS 2026 (Full Paper, Zürich) & ICLR 2026 Workshop Data-FM | TBD |
+| 2026 | **Is More Data Worth the Cost? Dataset Scaling Laws in a Tiny Attention-Only Decoder** | **Götz-Henrik Wiegand**, Lorena Raichle, Rico Staedeli, Tomas Hrycej, Bernhard Bermeitinger, Siegfried Handschuh | IEEE SDS 2026 (Full Paper, Zürich) & ICLR 2026 Workshop Data-FM | TBD |
 | 2025 | **A Convexity-Dependent Two-Phase Training Algorithm for Deep Neural Networks** | Tomas Hrycej, Bernhard Bermeitinger, Massimo Pavone, **Götz-Henrik Wiegand**, Siegfried Handschuh | KDIR IC3K 2025 **(Best Paper Award)** | [arXiv](https://arxiv.org/abs/2510.25366) / [DOI](https://doi.org/10.5220/0013696100004000) / [ORCID](https://orcid.org/0009-0009-0392-056X) |
 | 2024 | **Leveraging Generative AI for Enhancing Domain-Driven Software Design** | **Götz-Henrik Wiegand**, Filip Stepniak, Patrick Baier | URAI 2024 | [arXiv](https://arxiv.org/abs/2601.20909) / [DOI](https://doi.org/10.60643/URAI.V2024P41) / [ORCID](https://orcid.org/0009-0009-0392-056X) |
 
