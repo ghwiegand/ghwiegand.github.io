@@ -13,7 +13,7 @@ citation: 'Wiegand, G.-H., Raichle, L., Staedeli, R., Handschuh, S., Hrycej, T.,
 **Accepted as Full Paper at IEEE SDS 2026 (Zürich)**  
 **Also presented at ICLR 2026 Workshop on Data-FM**
 
-**Authors:** Götz-Henrik Wiegand, Lorena Raichle, Rico Staedeli, Siegfried Handschuh, Tomas Hrycej, Bernhard Bermeitinger  
+**Authors:** Götz-Henrik Wiegand, Lorena Raichle, Rico Staedeli, Tomas Hrycej, Bernhard Bermeitinger,  Siegfried Handschuh
 
 **OpenReview:** [NWXflgOD5D](https://openreview.net/forum?id=NWXflgOD5D)  
 
