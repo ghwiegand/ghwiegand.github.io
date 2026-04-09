@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate and research assistant at [DS-NLP Lab](https://blog.nlp-lab.ai/) in the [Chair of Data Science and Natural Language Processing of Prof. Siegfried Handschuh](https://ics.unisg.ch/chairs/siegfried-handschuh-data-science-and-natural-language-processing/) at University of St.Gallen (HSG).
+I am a PhD candidate and research assistant at [DS-NLP Lab](https://blog.nlp-lab.ai/) in the [Chair of Data Science and Natural Language Processing of Prof. Siegfried Handschuh](https://ics.unisg.ch/chairs/siegfried-handschuh-data-science-and-natural-language-processing/) at University of St.Gallen (HSG).
 
-My research focusses on foundation model training and optmizitaion. I am also the Teaching Assistant for Statistics for Data Scientists (CS Bachleor 3. Semester) and "NLP with LLM" class (CS Master 2. Semester). Aside that I also suppervise master and bachelor thesis and other projects. 
+My research focuses on foundation model training and optimization. I am also the teaching assistant for Statistics for Data Scientists (CS Bachelor 3. Semester) and "NLP with LLM" class (CS Master 2. Semester). Aside from that, I also supervise master's and bachelor's theses and other projects. 
 
 <div class="thesis-callout" style="background-color: var(--callout-bg, #f0f8ff); border: 2px solid var(--callout-accent, #0066cc); border-radius: 10px; padding: 20px; margin: 20px 0; color: var(--global-text-color);">
   <h3 style="margin-top: 0; color: var(--callout-accent, #0066cc);">Open for Thesis Supervision</h3>
